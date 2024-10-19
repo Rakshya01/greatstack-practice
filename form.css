@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popins', sans-serif;
+
+
+}
+.container{
+    width: 100%;
+    background-color: #141a34;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.container form{
+    width: 90%;
+ 
+    max-width: 500px;
+    padding: 50px 30px 20px;
+    background: #fff;
+    border-radius: 4px;
+    position: relative;
+    box-shadow: 0 4px rgba(0, 0, 0, 0.5);
+
+    
+}
